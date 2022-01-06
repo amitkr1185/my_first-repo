@@ -9,3 +9,4 @@ data "aws_ami" "data_ami" {
     name   = "architecture"
     values = ["x86_64"]
   }
+}
